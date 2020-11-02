@@ -82,7 +82,7 @@ body {
   top: 300px;
 }
 
-.modal {
+.modal-inner {
   background-color: blueviolet;
   border-radius: 12px;
   color: white;
